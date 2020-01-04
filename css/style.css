@@ -65,11 +65,17 @@ li {
 	padding-top: 10px;}
 
 .hot {
-	background-color: #d7666b;
+	background-color: #8ba4e4;
 	color: #fff;
 	text-shadow: 2px 2px 1px #914141;
 	border-top: 1px solid #e99295;
 	border-bottom: 1px solid #914141;}
+
+.shot {
+    background-color: #e48b8b;
+    font-style: italic;
+    font-size: 1.6rem;
+}
 
 .cool {
 	background-color: #6cc0ac;
